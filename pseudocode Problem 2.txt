@@ -1,0 +1,12 @@
+/*Problem 2*/
+judul
+Program luas_permukaan_tabung
+
+Deskripsi
+let T, r: integer;
+
+Implementasi
+T← 20;
+r← 4;
+Pi←22/1
+luas←(2*pi*r^2) + (2*pi*r*T)

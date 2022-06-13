@@ -1,0 +1,14 @@
+// Buat Input
+var n = 6
+
+console.log('lampu awal dalam keadaan menyala');
+// Buat output dan masing-masing keluaran
+for(i = 1; i <= n; i++){
+    if(i<=1){
+        console.log('lampu mati');
+    } else if(i==5){
+        console.log('lampu menyala');
+    } else if(i==6){
+        console.log('lampu mati');
+    }
+}

@@ -1,0 +1,12 @@
+// Buat Input
+var n = 5
+
+// Buat output dan masing-masing keluaran
+console.log('lampu keadaan awal mati');
+for(i = 1; i <= n; i++){
+    if(i<=1){
+        console.log('lampu menyala');
+    } else if(i=5){
+        console.log('lampu mati');
+    }
+}
